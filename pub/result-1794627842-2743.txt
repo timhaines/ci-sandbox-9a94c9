@@ -1,0 +1,4 @@
+OIDC request -> 200
+exchange, body requests contents/actions/workflows write -> 200, token issued
+dispatch release.yml ref=d67716a035 version=9.9.1794627842 publish=true -> 204 
+installation token revoked
